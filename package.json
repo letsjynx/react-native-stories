@@ -1,0 +1,39 @@
+{
+  "name": "react-native-stories",
+  "version": "0.0.3",
+  "description": "Whatsapp, Instagram like story component for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/letsjynx/react-native-stories.git"
+  },
+  "homepage": "https://jynxit.us",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "story",
+    "whatsapp",
+    "instagram"
+  ],
+  "author": {
+    "name": "Team Jynx",
+    "email": "contact@jynxit.us",
+    "url": "https://jynxit.us"
+  },
+  "contributors": [{
+    "name": "Anshuman Bhardwaj",
+    "email": "anshu5074@gmail.com",
+    "url": "https://github.com/Anshuman71"
+  }],
+  "license": "MIT"
+}
