@@ -10,7 +10,6 @@
     "type": "git",
     "url": "https://github.com/letsjynx/react-native-stories.git"
   },
-  "homepage": "https://jynxit.us",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
@@ -25,6 +24,7 @@
     "whatsapp",
     "instagram"
   ],
+  "homepage": "https://jynxit.us",
   "author": {
     "name": "Team Jynx",
     "email": "contact@jynxit.us",

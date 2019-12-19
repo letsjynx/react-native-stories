@@ -1,5 +1,7 @@
 # react-native-stories
 
+[![npm version](https://badge.fury.io/js/react-native-stories.svg)](https://badge.fury.io/js/react-native-stories)
+
 Whatsapp, Instagram like story component for react-native
 
 ## Demo
