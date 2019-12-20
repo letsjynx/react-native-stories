@@ -1,12 +1,12 @@
 # react-native-stories
 
-[![npm version](https://badge.fury.io/js/react-native-stories.svg)](https://badge.fury.io/js/react-native-stories)
+[![npm version](https://badge.fury.io/js/react-native-stories.svg)](https://badge.fury.io/js/react-native-stories) ![npm](https://img.shields.io/npm/dw/react-native-stories) ![NPM](https://img.shields.io/npm/l/react-native-stories)
 
 Whatsapp, Instagram like story component for react-native
 
 ## Demo
 
-![alt text](https://i.ibb.co/VqkYFNf/Whats-App-Image-2019-12-14-at-7-00-49-PM.jpg "Logo Title Text 1")
+![Demo](https://i.ibb.co/VqkYFNf/Whats-App-Image-2019-12-14-at-7-00-49-PM.jpg "Demo")
 
 [Live in Action](https://drive.google.com/file/d/1UId6DI8Lf7qOm0tXPNv1C1bCQFiE3BIg/view?usp=sharing)
 
